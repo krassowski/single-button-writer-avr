@@ -65,6 +65,10 @@ wartość graniczna `THERESHOLD` z zakresu `1 - 1023` pozwala regulować próg r
 #define EMG_THERESHOLD 900
 ```
 
+### Inne wymagania
+
+Do kompilacji wymagana jest biblioteka HD44780, dostępna pod adresem: [community.atmel.com/projects/hd44780-library](http://community.atmel.com/projects/hd44780-library).
+
 ## Zdjęcie w zbliżeniu na układ podczas pracy:
 
 ![Zoomed](https://github.com/krassowski/single-button-writer-avr/blob/master/img/zoomed.jpg?raw=true)
